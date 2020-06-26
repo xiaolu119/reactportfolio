@@ -3,15 +3,15 @@ import './App.css';
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Aboutme from "./components/Aboutme";
-import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
+import Crousel from "./components/Crousel";
 
 function App() {
   return (
    <div>
 <Header></Header>
 <Aboutme></Aboutme>
-<Portfolio></Portfolio>
+<Crousel></Crousel>
 <Contact></Contact>
 <Footer></Footer>
    </div>
