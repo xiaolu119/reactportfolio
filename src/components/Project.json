@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "name" : "Responsive Portfolio",
+        "github":"https://github.com/xiaolu119/homework2",
+        "live": "https://xiaolu119.github.io/homework2/",
+        "image": "/picture/responsiveportfolio.jpg"
+    },
+
+     {
+        "id" : 2,
+        "name" : "Day Planner",
+        "github":"https://github.com/xiaolu119/WorkDayScheduler.io",
+        "live": "https://xiaolu119.github.io/WorkDayScheduler.io/",
+        "image": ""
+    },
+
+    {
+        "id" : 3,
+        "name" : "Weather Dashboard",
+        "github":"https://github.com/xiaolu119/",
+        "live": "https://xiaolu119.github.io/WeatherDashboard.io/",
+        "image": ""
+    },
+    
+    {
+        "id" : 4,
+        "name" : "Project 1",
+        "github":"https://github.com/athomik79/WTF-app",
+        "live": "https://athomik79.github.io/WTF-app/ ",
+        "image": ""
+    },
+
+    {
+        "id" : 5,
+        "name" : "Team Profile Generator",
+        "github":"ttps://github.com/xiaolu119",
+        "live": "https://xiaolu119.github.io/homework10/.",
+        "image": ""
+    },
+    
+    {
+        "id" : 6,
+        "name" : "Note Taker",
+        "github":"https://xiaolu119.github.io/Notetaker/.",
+        "live": "https://obscure-dawn-36696.herokuapp.com/",
+        "image": ""
+    },
+
+    {
+        "id" : 7,
+        "name" : "Employee Management System",
+        "github":"https://xiaolu119.github.io/homework12/",
+        "live": "https://drive.google.com/file/d/1unqmekgyj60V7bdHQCznBMV6izKCvFD2/view?usp=sharing",
+        "image": ""
+    },
+
+    {
+        "id" : 8,
+        "name" : "Node Express Handlebars",
+        "github":"https://xiaolu119.github.io/ExpressHandlebars/",
+        "live": "https://shielded-falls-41975.herokuapp.com/",
+        "image": ""
+    },
+
+    {
+        "id" : 9,
+        "name" : "Project 2",
+        "github":"https://github.com/javayporter/project_2",
+        "live": "https://shrouded-ocean-64037.herokuapp.com/",
+        "image": ""
+    },
+
+    {
+        "id" : 10,
+        "name" : "",
+        "github":"",
+        "live": "",
+        "image": ""
+    }
+    
+    
+]
