@@ -9,12 +9,12 @@ function Contact(){
 </button>
 
 <button>
-         <a href={"linkle"}>
+         <a href={"https://www.linkedin.com/in/xiaolu-sun-80473b110/"}>
          <i class="fa fa-linkedin fa-4x" ></i></a>
 </button>
 
 <button>
-         <a href="mailto: amily119@gmail.com?subject=I am instersting to hire you">
+         <a href="mailto: amily119@gmail.com?subject=I am interesting to hire you">
          <i class="fa fa-envelope-square fa-4x"></i></a>
 </button>
 
